@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "207c22da_ae2686a1",
+        "filename": "JavaExample.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1016705
+      },
+      "writtenOn": "2019-07-05T13:32:33Z",
+      "side": 1,
+      "message": "Method Call not there.please use this method or else no need remove this method",
+      "revId": "4ff6c2d0572f830fd4c29e486d603dda64e87e1d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
