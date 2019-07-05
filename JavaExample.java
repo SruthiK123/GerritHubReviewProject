@@ -26,6 +26,8 @@ public class JavaExample
         //This will call third add method
         System.out.println("Sum of four numbers: "+obj.add(1,  2, 3, 4));
         //This will call mul method
+        
         System.out.println("Multiplication of two numbers "+obj.mul(10, 20));
+        
     }
 }
