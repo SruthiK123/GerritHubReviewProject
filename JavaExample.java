@@ -12,6 +12,10 @@ public class JavaExample
     {
         return num1+num2+num3+num4;
     }
+    int mul(int num1, int num2)
+    {
+        return num1+num2;
+    }
     public static void main(String[] args) 
     {    
     	JavaExample obj = new JavaExample();
